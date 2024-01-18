@@ -1,0 +1,58 @@
+header, nav, footer, section {
+    border: 3px solid royalblue;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+header {
+    background-color: deepskyblue;
+    margin-bottom: 10px;
+}
+
+nav {
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: deepskyblue;
+}
+
+h1 {
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+footer p {
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.text {
+    color: gold;
+}
+
+a {
+    color: yellow;
+    text-decoration: none;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+li {
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+li:hover {
+    background-color: deepskyblue;
+    border-radius: 3px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+article {
+    padding-bottom: 10px;
+}

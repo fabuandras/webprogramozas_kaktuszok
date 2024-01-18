@@ -1,0 +1,74 @@
+header, nav, aside, article, footer, section {
+    border: 3px solid royalblue;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+header {
+    background-color: deepskyblue;
+    margin-bottom: 10px;
+}
+
+aside {
+    background-color: deepskyblue;
+    margin-bottom: 10px;
+
+}
+
+nav {
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: deepskyblue;
+}
+
+h1 {
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+footer p {
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+aside li {
+    font-family:'Times New Roman', Times, serif;
+}
+
+aside p {
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.text {
+    color: gold;
+}
+
+article {
+    margin-bottom: 10px;
+    background-color: deepskyblue;
+}
+
+a {
+    color: yellow;
+    text-decoration: none;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+li {
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+li:hover {
+    background-color: deepskyblue;
+    border-radius: 3px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
